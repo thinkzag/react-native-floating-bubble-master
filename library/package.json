@@ -1,0 +1,22 @@
+
+{
+  "name": "react-native-floating-bubble",
+  "version": "1.0.4",
+  "description": "Floating bubbles for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hybriteq/react-native-floating-bubble.git"
+  }
+}
